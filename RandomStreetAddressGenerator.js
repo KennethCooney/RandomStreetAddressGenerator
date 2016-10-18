@@ -14,3 +14,6 @@ var newString = streetNumber[Math.round(Math.random()*4)]
 + stateName[Math.round(Math.random()*4)] + ' ' 
 + zipcode[Math.round(Math.random()*4)];
 console.log(newString);
+
+
+alert('hello');
